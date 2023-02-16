@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Dialog box assignment</string>
+    <string name="EnterNumber">Enter Number</string>
+    <string name="addbutton">Add 10</string>
+    <string name="multiply5">Multiply 5</string>
+    <string name="plusbutton">Plus Button</string>
+    <string name="alert">Alert</string>
+    <string name="MultiButton">Multi Button</string>
+    <string name="ResetButton">Reset Button</string>
+    <string name="number_zero">0</string>
+</resources>
